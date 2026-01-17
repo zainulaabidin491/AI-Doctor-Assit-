@@ -1,0 +1,2 @@
+to run the project cd to backedn first and run in terminal "uvicorn main:app --reload"
+and then cd to frontend in another terminal and run streamllit run streamlit.py it will load a tab in the browser and then you can query the chatbot
